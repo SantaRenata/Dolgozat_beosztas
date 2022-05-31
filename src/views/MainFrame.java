@@ -1,3 +1,13 @@
+/*
+* File: MainFrame.java
+* Author: Sánta Renáta Diána
+* Copyright: 2022, Sánta Renáta Diána
+* Group: Szoft I N
+* Date: 2022-05-31
+* Github: https://github.com/SantaRenata/
+* Licenc: GNU GPL
+*/
+
 package views;
 
 import java.awt.BorderLayout;

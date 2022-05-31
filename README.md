@@ -1,3 +1,3 @@
-# Template program
+# Dolgozat
 
-Template leírás
+Sánta Renáta Diána, 2022-05-31, Szoft I N
